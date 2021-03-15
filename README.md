@@ -1,5 +1,5 @@
 # alien_invasian
-Project made by DiogoVadlrez.
+Project made by DiogoValdrez.
 
 Based on a python learning book.
 
